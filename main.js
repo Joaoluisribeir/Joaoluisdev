@@ -12,7 +12,7 @@ function md() {
   body.classList.toggle("back");
 }
 function wpp( ) {
-  window.location.href="#Abount";
+  window.location.href="#abount";
 }
 function c() {
   window.location.href="https://Wa.me/558698857-1559"

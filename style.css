@@ -135,6 +135,7 @@ section{
 .abount{
   display:flex;
   gap:4rem;
+  font-size:12px;
 }
 .card{
   height:20vh;
@@ -145,6 +146,7 @@ section{
   text-align:center;
   padding-top:3rem;
   border-radius:20px;
+  font-size:11px;
 }
 .card i{
   font-size:3rem;
@@ -219,7 +221,7 @@ animation-delay:1s;
     color:white;
   }
   #btn{
-    margin-left:16rem;
+    margin-left:14rem;
   }
   .home{
     display:flex;

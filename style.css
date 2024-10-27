@@ -37,6 +37,7 @@ nav{
 .hamburger{
   display:none;
   flex-direction:column;
+  cursor:pointer;
 }
 .bar{
   width:25px;
@@ -85,6 +86,7 @@ section{
   background-color:#7c19ec;
   border-radius:20px;
   border:1px solid transparent;
+  cursor:pointer;
 }
 .ct{
   width:130px;
@@ -94,12 +96,14 @@ section{
   margin:1rem;
   border-radius:20px;
   border:1px solid transparent;
+  cursor:pointer;
 }
 #btn{
   background-color:transparent;
   border:none;
   font-size:2rem;
   color:#7c19ec;
+  cursor:pointer;
 }
 .imhome{
   animation:ft 3s;

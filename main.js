@@ -7,10 +7,6 @@ hamburge.addEventListener('click', () => {
 }
 )
 
-function md() {
-  const body = document.querySelector("#body");
-  body.classList.toggle("back");
-}
 function wpp( ) {
   window.location.href="#abount";
 }

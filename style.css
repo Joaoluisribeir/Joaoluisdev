@@ -80,7 +80,7 @@ section{
   color:#7c19ec;
 }
 .more{
-  width:130px;
+  width:120px;
   height:40px;
   color:white;
   background-color:#7c19ec;
@@ -89,7 +89,7 @@ section{
   cursor:pointer;
 }
 .ct{
-  width:130px;
+  width:120px;
   height:40px;
   color:white;
   background-color:#7c19ec;
@@ -226,7 +226,7 @@ animation-delay:1s;
     color:white;
   }
   #btn{
-    margin-left:14rem;
+    margin-left:10rem;
   }
   .home{
     display:flex;
